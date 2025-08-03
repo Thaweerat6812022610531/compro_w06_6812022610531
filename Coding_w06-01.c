@@ -33,4 +33,4 @@ int main(){                            //main function start here
 //8. In line 18th it display the result of 'a % b' and calculate it, which is an error because in C language the '%' can only integer results
 //9. In line 19th it display the result of 'c % a' and calculate it, which is an error because in C language the '%' can only use with integer
 //10. In line 20th it display the result of 'c % d' and calculate it, which is an error because in C language the '%' can only use with integer 
-// 
+//
